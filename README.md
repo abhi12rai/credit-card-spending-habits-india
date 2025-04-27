@@ -82,7 +82,9 @@ Based on the project analysis, further research could include:
 - Perform **time series analysis** on monthly spending to identify patterns or cycles.
 
 ---
-
+## Acknowledgements
+- I would like to thank **Sadat Akash** for providing the original dataset used in this project.
+- The dataset titled *"Credit Card Transactions - India"* can be found [here]([link-if-you-have-it](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)).
 
 ---
 
