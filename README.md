@@ -1,5 +1,4 @@
 # credit-card-spending-habits-india
-# Credit Card Spending Habits in India 🇮🇳
 ### Gender, Location, and Transaction Trends
 
 ---
