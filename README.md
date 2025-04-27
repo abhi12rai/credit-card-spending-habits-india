@@ -84,7 +84,7 @@ Based on the project analysis, further research could include:
 ---
 ## Acknowledgements
 - I would like to thank **Sadat Akash** for providing the original dataset used in this project.
-- The dataset titled *"Credit Card Transactions - India"* can be found [here]([link-if-you-have-it](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)).
+- The dataset titled *"Credit Card Transactions - India"* can be found [[here](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)].
 
 ---
 
